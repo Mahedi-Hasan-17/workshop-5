@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bl-7{
+    width: 100%;
+    background-color: blanchedalmond;
+    display: block;
+    align-items: center;
+    text-align: center;
+    color: darkslategray;
+}
+.x7{
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+}
+.f10{
+    flex-basis: 40%;
+    margin: 5px;
+}
+.f10 img{
+    width: 300px;
+}
+.f11{
+    flex-basis: 60%;
+}
+.f11 p{
+    font-size: 25px;
+}
+.f12{
+    flex-basis: 69%;
+    margin: 1%;
+}
+.f12 p{
+    font-size: 20px;
+}
+.f13{
+    flex-basis: 29%;
+    margin: 1%;
+}
+.f13 img{
+    width: 100%;
+}
+.f14{
+    flex-basis: 29%;
+    margin: 1%;
+}
+.f14 img{
+    width: 100%;
+}
+.f15{
+    flex-basis: 69%;
+    margin: 1%;
+}
+.f15 p{
+    font-size: 20px;
+}
